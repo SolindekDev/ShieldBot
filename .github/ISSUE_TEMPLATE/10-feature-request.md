@@ -1,14 +1,14 @@
 ---
-name: Feature Request
-about: Use this template for raising a feature request
+name: Prośba o funkcję
+about: Użyj tego szablony aby zasugerować funkcję.
 labels: 'type:feature'
 
 ---
 
-**Describe the feature and the current behavior/state.**
+**Opisz aktualne zachowanie/stanDescribe the feature and the current behavior/state.**
 
-**Will this change the current api? How?**
+**Opisz funkcję. Co ona doda?**
 
-**Who will benefit with this feature?**
+**Kto skorzysta z tej funkcji?**
 
-**Any Other info.**
+**Inne informacje. (np. : sposób wprowadzenia)**

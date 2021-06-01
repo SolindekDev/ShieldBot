@@ -1,14 +1,13 @@
 ---
-name: Bug Issue
-about: Use this template for reporting a bug
+name: Błąd
+about: Użyj tego szablonu by zgłosić błąd.
 labels: 'type:bug'
 
 ---
 
-**Describe the current behavior**
+**Opisz aktualne zachowanie**
 
-**Describe the expected behavior**
+**Opisz oczekiwane zachowanie**
 
-**Other info / logs** Include any logs or source code that would be helpful to
-diagnose the problem. If including tracebacks, please include the full
-traceback. Large logs and files should be attached.
+**Inne informacje / logi** Zawrzyj jakiekolwiek logi lub kod źródłowy, który pomoże zdiagnozować problem. Include any logs or source code that would be helpful to
+diagnose the problem. POdaj pełne [tracebacki](https://en.wiktionary.org/wiki/traceback) jeśli je uwzględnisz. Duże logi oraz pliki powinny zostać załączone.
