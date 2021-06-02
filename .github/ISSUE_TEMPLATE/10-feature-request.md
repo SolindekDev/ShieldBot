@@ -1,7 +1,7 @@
 ---
 name: Prośba o funkcję
 about: Użyj tego szablonu aby zasugerować funkcję.
-labels: 'type:feature'
+labels: 'feature'
 ---
 
 **Opisz aktualne zachowanie/stan**

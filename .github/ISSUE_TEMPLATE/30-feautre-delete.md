@@ -1,7 +1,7 @@
 ---
 name: Prośba o usunięcie funkcji
 about: Użyj tego szablonu jeśli sądzisz, że jakaś funkcja jest niepotrzebna.
-labels: 'type:delete'
+labels: 'delete'
 ---
 
 **Funkcja, którą chcesz usunąć.**
