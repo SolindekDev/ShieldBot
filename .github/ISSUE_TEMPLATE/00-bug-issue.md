@@ -2,7 +2,6 @@
 name: Błąd
 about: Użyj tego szablonu by zgłosić błąd.
 labels: 'type:bug'
-
 ---
 
 **Opisz aktualne zachowanie**
