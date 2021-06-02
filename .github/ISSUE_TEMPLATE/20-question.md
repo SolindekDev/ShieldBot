@@ -1,6 +1,6 @@
 ---
 name: Pytanie
-about: Użyj tego szablonu jeśli chcesz zadać pytanie.
+about: Użyj tego szablonu jeśli chcesz zadać pytanie lub otrzymać pomoc.
 labels: 'question'
 ---
 
